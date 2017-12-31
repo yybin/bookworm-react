@@ -5,8 +5,8 @@
   "extends": ["airbnb", "prettier", "prettier/react"],
   "plugins": ["prettier"],
   "parser": "babel-eslint",
-  "allowShortCircuit": false, 
-  "allowTernary": false,
+  // "allowShortCircuit": false, 
+  // "allowTernary": false,
   "parserOptions": {
     "ecmaVersion": 2016,
     "sourceType": "module",
